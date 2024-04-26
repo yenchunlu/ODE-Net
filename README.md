@@ -1,0 +1,1 @@
+The ipynb file is designed for comparing the performance of the ODE Net and ResNet models. This repository also includes tqo CSV files that contain data on training loss, training accuracy, validation loss, and validation accuracy for each epoch for each model. It helps further analysis and visualization of the models' performance across different training epochs.
